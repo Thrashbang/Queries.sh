@@ -1,4 +1,4 @@
-#! /bin/bashy
+#! /bin/bash
 
 if [[ $1 == "test" ]]
 then
