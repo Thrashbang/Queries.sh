@@ -1,5 +1,5 @@
 
-Totes number of goals in all games from winning teams:
+Total number of goals in all games from winning teams:
 68
 
 Total number of goals in all games from both teams combined:
